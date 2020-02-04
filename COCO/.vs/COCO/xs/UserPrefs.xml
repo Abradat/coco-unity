@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{38CCF4CE-23E2-B079-0CAB-9AE322EB4189}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameScene/GameSceneManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Events/FourDetected.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameScene/GameModel.cs" />
+      <File FileName="Assets/Scripts/GameModel(Scriptable Object)/GameConfig.cs" />
+      <File FileName="Assets/Scripts/GameScene/GameSceneManager.cs" Line="472" Column="1" />
+      <File FileName="Assets/Scripts/ConnectionManager/Client.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/ServiceLocator/EventManager.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COCO" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ConnectionManager" expanded="True" />
+                <Node name="EventListeners" expanded="True" />
+                <Node name="Events" expanded="True" />
+                <Node name="FandoghStuff" expanded="True" />
+                <Node name="GameModel(Scriptable Object)" expanded="True" />
+                <Node name="GameScene" expanded="True">
+                  <Node name="GameSceneManager.cs" selected="True" />
+                </Node>
+                <Node name="Menu" expanded="True" />
+                <Node name="ServiceLocator" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="de679633-f113-46e8-910a-ec4708ee0304" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

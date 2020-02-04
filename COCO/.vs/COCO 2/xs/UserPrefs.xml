@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DD6838C8-056F-9F6F-980B-96E67BD5FD47}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameSceneManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameSceneManager.cs" Line="321" Column="29" />
+      <File FileName="Assets/Scripts/MenuSceneHandler.cs" Line="20" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COCO 2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameSceneManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a5a99aac-a392-40a9-a9be-ccc8a7623a71" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
